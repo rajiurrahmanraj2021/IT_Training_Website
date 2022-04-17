@@ -1,0 +1,567 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+
+@media (max-width: 575.98px) {
+    .navbar-toggler-icon i {
+		color: #e7e7e7;
+		font-size: 20px;
+		margin-right: 10px;
+	}
+    .banner_text .banner_details h1{
+        font-size: 20px;
+    }
+    .humanitarian h3 {
+        padding: 10px 8px;
+        font-size: 14px;
+    }
+    .humanitarian h3 i {
+        font-size: 20px;
+    }
+    .section_header h2 {
+        text-align: center;
+    }
+    .section_header h2 {
+        text-align: center;
+        font-size: 23px !important;
+        margin-top: 15px;
+        line-height: 130%;
+    }
+    .about {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .about_details p{
+        margin-top: 8px !important;
+        font-size: 15px;
+    }
+    .other_details p {
+        color: red;
+        font-size: 18px;
+        border-bottom: 2px solid #868080;
+        padding-bottom: 14px;
+        text-align: center !important;
+    }
+    .abal{
+        font-size: 16px;
+        line-height: 165%;
+    }
+    .about_img img {
+        height: 400px;
+    }
+    .what_details_new{
+        margin-bottom: 50px;
+    }
+    .pst{
+        font-size: 23px;
+        margin-top: 5px;
+    }
+    .what_we_do {
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
+    .akm{
+        padding: 2px 0px 10px 0px !important;
+        font-size: 20px;
+    }
+    .video_part {
+        height: 220px;
+    }
+    .video_button {
+        height: 220px;
+    }
+    .news {
+        padding-top: 30px;
+        padding-bottom: 45px;
+    }
+    .pagol{
+        font-size: 27px !important;
+    }
+    .new_news_details{
+        height: 800px !important;
+    }
+    .ongoing_details {
+        width: 100%;
+        padding: 0px 32px 0px 12px;
+    }
+    .pap{
+        height: 100px !important;
+        font-size: 15px !important;
+        padding: 0px !important;
+    }
+    .ongoing_slider .b_left_arrow {
+        top: 35%;
+    }
+    .ongoing_slider .b_right_arrow {
+        top: 46%;
+    }
+    .ongoing_slider .b_left_arrow:hover {
+        border: 1px solid white;
+        background: #fff0;
+        color: #fff;
+        box-shadow: none;
+    }
+    .blogporun{
+        font-size: 27px !important;
+    }
+    .ongoing_slider .b_right_arrow:hover {
+        border: 1px solid white;
+        background: #fff0;
+        color: white;
+        box-shadow: none;
+    }
+    .ongoing {
+        padding-bottom: 45px;
+    }
+    .events {
+        padding: 20px;
+        padding-bottom: 65px;
+    }
+    element {
+        width: 65px;
+    }
+    .logo-ff{
+        width: 80px;
+    }
+    .l_title{
+        font-size: 18px !important;
+        margin-bottom: 16px !important;
+    }
+    .logo-p{
+        font-size: 15px !important;
+    }
+    .textwidget p{
+        font-size: 15px !important;
+    }
+    .ulala{
+        margin-bottom: 30px !important;
+    }
+    .latest_banner_text h2 {
+	font-size: 30px !important;
+	line-height: 165%;
+    }
+
+    .post-div p {
+        font-size: 21px !important;
+    }
+    .tuto{
+        margin-bottom: 5px !important;
+    }
+    .accordion i {
+        font-size: 22px !important;
+    }
+    .about_img img {
+        padding-top: 0px !important;
+        padding-left: 0px !important;
+        padding-bottom: 0px !important;
+        height: 200px;
+    }
+    .about_us {
+        padding-top: 0px !important;
+    }
+    .about_text h3 {
+        font-size: 20px !important;
+        font-weight: bold !important;
+    }
+    .about_text p {
+        font-size: 15px !important;
+    }
+    .latest_banner {
+        height: 260px !important;
+    }
+    .latest_banner_text h2 {
+        font-size: 35px;
+        transform: translate(-50%, -50%);
+        left: 50%;
+        top: 50%;
+        position: relative;
+    }
+    .banner_part .b_right_arrow{
+        font-size: 30px;
+    }
+    .banner_part .b_left_arrow{
+        font-size: 30px;
+    }
+    .about_details a {
+	display: block;
+	text-align: center;
+    }
+    .what_content .what_details p{
+        font-size: 15px;
+    }
+    .publication {
+        padding-top: 30px;
+        padding-bottom: 65px;
+    }
+    .event_details p {
+        font-size: 16px;
+    }
+    .about_text h3{
+        text-align: center;
+    }
+    .about_img{
+        margin-top: 15px !important;
+    }
+    .about_text h3{
+        margin-bottom: 16px !important;
+    }
+    .gallery {
+        padding-top: 15px;
+        padding-bottom: 20px;
+    }
+    .gallery_content {
+        padding-top: 10px;
+    }
+    .l_heading p{
+        margin-bottom: 0px !important;
+    }
+    .wowsa{
+        text-align: justify;
+        margin-top: 12px;
+        font-size: 16px;
+        font-weight: normal;
+        line-height: 170%;
+    }
+    #fosa{
+        font-size: 17px !important;
+        font-weight: bold !important;
+        margin-top: 10px !important;
+        margin-bottom: 12px !important;
+    }
+    #kosa{
+        margin-bottom: 15px !important;
+    }
+    #prosnoa{
+        font-size: 16px !important;
+    }
+    .blog-details-content p{
+        font-size: 16px !important;
+    }
+    .blog-details-content h3 {
+        font-size: 18px;
+        line-height: 160%;
+    }
+    iframe{
+        width: 100% !important;
+    }
+    .dhaka_office {
+        padding-top: 35px !important;
+        padding-bottom: 25px !important;
+    }
+    .serial{
+        font-size: 18px !important;
+        line-height: 160% !important;
+    }
+    .serial_p{
+        font-size: 16px !important;
+    }
+    #serial_p{
+        font-size: 16px !important;
+    }
+
+    .myul{
+        background:#026a6f;
+        text-align: center;
+        padding: 5px 0px;
+    }
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-toggler-icon i {
+		color: #e7e7e7;
+		font-size: 20px;
+		margin-right: 10px;
+        text-align: center;
+	}
+    .banner_text .banner_details h1{
+        font-size: 25px !important;
+    }
+    .other_details p {
+        color: red;
+        font-size: 18px;
+        border-bottom: 2px solid #868080;
+        padding-bottom: 14px;
+        text-align: center !important;
+    }
+    .section_header h2{
+        text-align: center;
+    }
+    .what_details_new{
+        margin-bottom: 50px !important;
+    }
+    .pst{
+        font-size: 30px;
+    }
+
+
+
+    .ongoing_slider .b_left_arrow{
+        top: 28% !important;
+    }
+    .ongoing_slider .b_right_arrow{
+         top: 47% !important;
+    }
+    .pap{
+        height: 100px !important;
+    }
+    .ongoing_details{
+        width: 100%;
+        padding: 0px 20px;
+    }
+    .myul{
+        background:#026a6f;
+        text-align: center;
+        padding: 5px 0px;
+    }
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .feedback_img{
+        width: 45px !important;
+    }
+    .stu_name{
+        font-size: 25px !important;
+    }
+    .new_news_details {
+        height: 765px !important;
+    }
+    .about_text p{
+        font-size: 16px !important;
+    }
+    .abal{
+        font-size: 16px !important;
+    }
+
+
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-toggler-icon i {
+		color: #e7e7e7;
+		font-size: 20px;
+		margin-right: 10px;
+	}
+    .banner_text .banner_details h1{
+        font-size: 22px;
+    }
+    .humanitarian h3 {
+        padding: 12px 8px;
+        font-size: 15px;
+    }
+    .humanitarian h3 i {
+        font-size: 20px;
+    }
+    .section_header h2 {
+        text-align: center;
+    }
+    .about_details a {
+        display: block;
+        text-align: center;
+    }
+    .myul{
+        background:#026a6f;
+        text-align: center;
+        padding: 5px 0px;
+    }
+    .about {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .abal{
+        font-size: 16px;
+        line-height: 165%;
+    }
+    .about_img img {
+        height: 400px;
+    }
+    .what_details_new{
+        margin-bottom: 50px;
+    }
+    .pst{
+        font-size: 23px;
+        margin-top: 5px;
+    }
+    .what_we_do {
+        padding-top: 30px;
+        padding-bottom: 60px;
+    }
+    .akm{
+        padding: 2px 0px 10px 0px !important;
+        font-size: 22px;
+    }
+    .video_part {
+        height: 260px;
+    }
+    .video_button {
+        height: 240px;
+    }
+    .news {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    .pagol{
+        font-size: 27px !important;
+    }
+    .new_news_details{
+        height: 710px !important;
+    }
+    .ongoing_details {
+        width: 100%;
+        padding: 0px 32px 0px 12px;
+    }
+    .pap{
+        height: 100px !important;
+        font-size: 15px !important;
+        padding: 0px !important;
+    }
+    .ongoing_slider .b_left_arrow {
+        top: 35%;
+    }
+    .ongoing_slider .b_right_arrow {
+        top: 46%;
+    }
+    .ongoing_slider .b_left_arrow:hover {
+        border: 1px solid white;
+        background: #fff0;
+        color: #fff;
+        box-shadow: none;
+    }
+    .ongoing_slider .b_right_arrow:hover {
+        border: 1px solid white;
+        background: #fff0;
+        color: white;
+        box-shadow: none;
+    }
+    .ongoing {
+        padding-bottom: 45px;
+    }
+    .events {
+        padding: 20px;
+        padding-bottom: 65px;
+    }
+    element {
+        width: 65px;
+    }
+    .logo-ff{
+        width: 80px;
+    }
+    .l_title{
+        font-size: 18px !important;
+        margin-bottom: 16px !important;
+    }
+    .logo-p{
+        font-size: 15px !important;
+    }
+    .textwidget p{
+        font-size: 15px !important;
+    }
+    .ulala{
+        margin-bottom: 30px !important;
+    }
+    .latest_banner_text h2 {
+        font-size: 35px !important;
+    }
+    .about_img img {
+        padding-top: 0px !important;
+        padding-left: 0px !important;
+        padding-bottom: 0px !important;
+        height: 350px;
+    }
+    .about_us {
+        padding-top: 0px !important;
+    }
+    .about_text h3 {
+        font-size: 20px !important;
+        font-weight: bold !important;
+    }
+    .about_text p {
+        font-size: 15px !important;
+    }
+    .latest_banner {
+        height: 260px !important;
+    }
+    .latest_banner_text h2 {
+        font-size: 35px;
+        transform: translate(-50%, -50%);
+        left: 50%;
+        top: 50%;
+        position: relative;
+    }
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-toggler-icon i {
+		color: #e7e7e7;
+		font-size: 20px;
+		margin-right: 10px;
+        text-align: center;
+	}
+	.my_timer ul li span {
+    	font-size: 1.5rem;
+    }
+	.my_timer ul li {
+	    padding: 10px 30px 10px 63px;
+    }
+	.my_timer h1 {
+	    font-size: 17px;
+    }
+    .banner_text .banner_details h1{
+        font-size: 25px !important;
+    }
+    .section_header h2{
+        text-align: center;
+    }
+    .what_details_new{
+        margin-bottom: 50px !important;
+    }
+    .pst{
+        font-size: 30px;
+    }
+    .ongoing_slider .b_left_arrow{
+        top: 28% !important;
+    }
+    .ongoing_slider .b_right_arrow{
+         top: 47% !important;
+    }
+    .pap{
+        height: 100px !important;
+    }
+    .ongoing_details{
+        width: 100%;
+        padding: 0px 20px;
+    }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .feedback_img{
+        width: 45px !important;
+    }
+    .stu_name{
+        font-size: 25px !important;
+    }
+    .new_news_details {
+        height: 765px !important;
+    }
+    .about_text p{
+        font-size: 16px !important;
+    }
+    .abal{
+        font-size: 16px !important;
+    }
+    .my_timer h1 {
+	    font-size: 21px;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}

@@ -1,0 +1,19 @@
+$(document).ready(function(){
+    $('.dvdorder').click(function(){
+        $('.delivaryaddress').slideDown('slow');
+        $('.download_op').slideUp('slow');
+    })
+    $(".downloadlink").click(function(){
+        $('.delivaryaddress').slideUp('slow');
+        $('.download_op').slideDown('slow');
+    })
+
+    $('.bkst').click(function(){
+        $('.bksinfo').slideDown('slow');
+        $('.rocketinfo').slideUp('slow');
+    })
+    $(".rocket").click(function(){
+        $('.bksinfo').slideUp('slow');
+        $('.rocketinfo').slideDown('slow');
+    })
+})
